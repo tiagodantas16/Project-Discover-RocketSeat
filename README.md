@@ -1,8 +1,8 @@
 # Project_Discover_RocketSeat
 
-## Cursos gratuito da Rocketseat voltado para Web
+## Rocketseat's free web-oriented courses
 
-- 1ª Etapa Configurado a máquina - OK
-- 2ª Etapa Aprendizado conseguindo: Html, Css, JavaScript, Git e GitHub
+- 1ª Stage: Configured the machine ▶ OK
+- 2ª Stage: Learning by achieving ▶ Html, Css, JavaScript, Git and GitHub
 
 
